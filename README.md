@@ -31,7 +31,7 @@
 [![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css,git,mongodb,postgres,github,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,debian,powershellgithub,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,debian,powershell,github)](https://skillicons.dev)
 
 ### Creative Software
 [![Creative Software](https://skillicons.dev/icons?i=ae,ps,blender)](https://skillicons.dev)
