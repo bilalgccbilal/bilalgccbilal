@@ -28,7 +28,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Programming languages
-[![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css,git,mongodb,postgres,github,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,debian,powershell,github)](https://skillicons.dev)
