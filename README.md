@@ -44,7 +44,7 @@
 -->
 
 ### Publications
-<div> 
+<!-- <div> 
   <a href="https://medium.com/@daria-stanilevici">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
@@ -54,7 +54,7 @@
 </div>
 
 You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics. -->
 
 <!--
 Check out my latest post 👇  
@@ -71,7 +71,7 @@ Check out my latest post 👇
 -->
 
 ### Connect with me!
-<div>
+<!-- <div>
     <a href="https://www.linkedin.com/in/daria-stanilevici/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
@@ -87,7 +87,7 @@ Check out my latest post 👇
     <a href="https://medium.com/@daria-stanilevici">
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a>
-</div>
+</div> -->
 
 <!--
      Oh, hello there, recruiters!
