@@ -30,11 +30,8 @@
 ### Programming languages
 [![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css)](https://skillicons.dev)
 
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,debian,powershell,github)](https://skillicons.dev)
-
-### IDE
-[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,phpstorm,idea,eclipse,pycharm)](https://skillicons.dev)
+### Tools / IDE / DB
+[![Tools](https://skillicons.dev/icons?i=git,debian,powershell,github,visualstudio,vscode,clion,phpstorm,idea,eclipse,pycharm,cassandra,postgres,mysql,sqlite)](https://skillicons.dev)
 
 ### Creative Software
 [![Creative Software](https://skillicons.dev/icons?i=ae,ps,blender)](https://skillicons.dev)
