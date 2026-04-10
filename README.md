@@ -27,8 +27,14 @@
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,c,py,sql,js,php,html,css,git,mongodb,postgres,github,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
+### Programming languages
+[![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css,git,mongodb,postgres,github,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,debian,powershellgithub,ae,ps,blender,debian,powershell,spring)](https://skillicons.dev)
+
+### Creative Software
+[![Creative Software](https://skillicons.dev/icons?i=ae,ps,blender)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
