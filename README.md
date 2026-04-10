@@ -33,6 +33,9 @@
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,debian,powershell,github)](https://skillicons.dev)
 
+### IDE
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,phpstorm,idea,eclipse,pycharm)](https://skillicons.dev)
+
 ### Creative Software
 [![Creative Software](https://skillicons.dev/icons?i=ae,ps,blender)](https://skillicons.dev)
 
