@@ -7,7 +7,7 @@
     You may also want to connect with me on LinkedIn @daria-stanilevici :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=BB00DF&width=435&lines=Hi%2C+I'm+Bilal+HADDAR;Currently+a+final-year+Computer+Science+student+at+Paris+Rives+de+Seine+IUT" alt="Business Analyst"/>
@@ -97,7 +97,7 @@ Check out my latest post 👇
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
