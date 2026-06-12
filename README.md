@@ -9,8 +9,11 @@
 [![Creative Software](https://skillicons.dev/icons?i=ae,ps,blender)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby,rust)](https://skillicons.dev)
 
+### API
+
+aAAAAAAAAAAAAAA
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
