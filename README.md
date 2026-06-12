@@ -1,15 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" alt="header"/> 
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
 ### Programming languages
 [![Programming languages](https://skillicons.dev/icons?i=java,cpp,cs,c,py,js,php,html,css)](https://skillicons.dev)
 
@@ -72,16 +61,4 @@ Check out my latest post 👇
     </a>
 </div> -->
 
-<!--
-     Oh, hello there, recruiters!
--->
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
