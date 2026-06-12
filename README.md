@@ -1,21 +1,4 @@
-<!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" alt="header"/> 
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=BB00DF&width=435&lines=Hi%2C+I'm+Bilal+HADDAR;Currently+a+final-year+Computer+Science+student+at+Paris+Rives+de+Seine+IUT" alt="Business Analyst"/>
-</a>
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 
 <div>
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
